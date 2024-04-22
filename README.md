@@ -46,10 +46,10 @@ Não há aulas específicas para o desafio, por isso devemos desenvolver com o c
 <table style="text-align: center;">
   <tr>
     <td>
-      <img height="150px" src="">
+      <img height="150px" src="/src/assets/Badge/Badge-Portfolio.png">
     </td>
     <td>
-      <img height="150px" src="">
+      <img height="150px" src="/src/assets/Badge/Badge-AluraGeek.png">
     </td>
   </tr>
   <tr>
