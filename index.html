@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <title>Challenge Alura Geek</title>
+    <link rel="stylesheet" href="/src/styles.css">
+</head>
+
+<body>
+    <header>
+        <img src="/src/assets/icones/logolar.svg" alt="coracao">
+    </header>
+    <main>
+        <section id="produtos">
+            <h2>Meus Produtos:</h2>
+            <div id="container-produtos">
+                <!-- Os produtos serão inseridos aqui pelo JavaScript -->
+            </div>
+        </section>
+        <section id="formulario">
+            <h2>Adicionar Produto:</h2>
+            <form id="form-produto">
+                <input type="text" id="nome-produto" placeholder="Nome do Produto" required>
+                <input type="number" id="valor-produto" placeholder="Valor do Produto" required>
+                <input type="url" id="imagem-produto" placeholder="URL da Imagem do Produto" required>
+                <div class="btn-container">
+                    <button type="submit" id="botao-guardar">Guardar</button>
+                    <button type="reset" id="botao-limpar">Limpar</button>
+                </div>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <img src="/src/assets/icones/Logorodape.svg" alt="rodape">
+        <p>&reg;2024 VBDOL. DEV</p>
+        <div id="redes-sociais">
+            <!-- Insira os ícones das redes sociais aqui -->
+            <a href="https://github.com/VBDOL"><img class="x-icon" src="/src/assets/icones/github.png" alt="github"></a>
+            <a href="https://www.linkedin.com/in/victor-b-o-leme-dev"><img class="x-icon"
+                    src="/src/assets/icones/linkedin.png" alt="linkedin"></a>
+            <a href="https://www.instagram.com/vbdol.dev/"><img class="x-icon" src="/src/assets/icones/Instagram.png"
+                    alt="instagram"></a>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
