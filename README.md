@@ -6,12 +6,10 @@ Hey, devs!
 
 Neste repositório você encontrará uma página de e-commerce para uma loja online de produtos geek chamada **Alura Geek**, que foi desenvolvida como resultado de um Desafio Front-End (T6) exclusivo para alunos da escola de tecnologia [Alura](https://www.alura.com.br).
 
-**Devido à limites impostos pelo serviço de hospedagem, o carregamento inicial da página pode levar alguns segundos.**
 
-Você pode saber um pouco mais como funcionam os _challenges_ da Alura visitando a seção [**🦾 Sobre o desafio**](#challenge).
 
 <!-- prettier-ignore -->
-| 🪧 Vitrine Dev |   |
+| VBDOL DEV |   |
 | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ✨ Nome        | **Alura Geek** - Challenge Alura |
 | 🏷️ Tecnologias |HTML, CSS, JavaScript |
@@ -48,10 +46,10 @@ Não há aulas específicas para o desafio, por isso devemos desenvolver com o c
 <table style="text-align: center;">
   <tr>
     <td>
-      <img height="150px" src="https://raw.githubusercontent.com/sucodelarangela/alura-geek/master/public/images/Badge_Alura_Challenge_FRONT-END_First_v2.png">
+      <img height="150px" src="">
     </td>
     <td>
-      <img height="150px" src="/src/assets/tps://raw.githubusercontent.com/sucodelarangela/alura-geek/master/public/images/Badge_Alura_Challenge_FRONT-END_Helper.png">
+      <img height="150px" src="">
     </td>
   </tr>
   <tr>
@@ -68,4 +66,4 @@ Não há aulas específicas para o desafio, por isso devemos desenvolver com o c
 
 ---
 
-Desenvolvido com 🧡 by [@VBDOL.DEV 🍊]()
+Desenvolvido com 🧡 by [@VBDOL.DEV ]()
