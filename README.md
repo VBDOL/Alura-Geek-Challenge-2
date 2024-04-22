@@ -61,7 +61,7 @@ Não há aulas específicas para o desafio, por isso devemos desenvolver com o c
 <a href='#top'>🔼 Voltar ao topo</a>
 
 ---
-
+#AluraLatam e #oraclenexteducation!
 
 
 ---
